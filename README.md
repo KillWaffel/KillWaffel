@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KillWaffel
 - 👀 I’m interested in electronics, computer programming, AI, futur prediction analysis, data analysis, functional safety, piano playing
-- 🌱 I’m currently learning Python and AI
+- 🌱 I’m currently learning C++ JUCE Framework, Python and AI
 
 
 <!---
